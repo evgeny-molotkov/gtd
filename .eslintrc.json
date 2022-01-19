@@ -263,7 +263,8 @@
         "eslint-plugin-rxjs",
         "eslint-plugin-react",
         "eslint-plugin-unicorn",
-        "@typescript-eslint"
+        "@typescript-eslint",
+        "eslint-plugin-prettier"
       ]
     },
     {
